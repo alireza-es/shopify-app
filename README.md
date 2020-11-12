@@ -1,1 +1,1 @@
-# Shopify Sample App using Next.js & React
+# a Shopify App with Node and React
